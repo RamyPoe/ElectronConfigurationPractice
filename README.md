@@ -4,5 +4,5 @@ ___
 
 #### Project Screenshots
 
-![ALT](https://i.ibb.co/qdfzwy1/Untitled-drawing.png)
-![ALT](https://i.ibb.co/YWxdzt5/Untitled-drawing-1.png)
+![ALT](https://github.com/RamyPoe/ElectronConfigurationPractice/blob/main/images/1.png?raw=true)
+![ALT](https://github.com/RamyPoe/ElectronConfigurationPractice/blob/main/images/2.png?raw=true)
